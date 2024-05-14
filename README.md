@@ -16,9 +16,9 @@
 
 ### Demonstração 🚀
 
-![Demonstração do Formulário de Registro](https://example.com/registration-form-demo.png)
+[Demonstração do Formulário de Registro](https://github.com/leticiaveigacs/registrationForm/issues/1#issue-2295147378)
 
-### Notas Adicionais
+### Informações
 
 - Certifique-se de que todos os campos obrigatórios estejam preenchidos antes de enviar o formulário.
 - A senha deve conter pelo menos 8 caracteres, consistindo em letras minúsculas e números.
@@ -26,7 +26,7 @@
 - Escolha a opção que melhor descreva como você ficou sabendo sobre o serviço no menu suspenso.
 - Forneça uma breve biografia sobre você na área de texto fornecida.
 - Aceite os termos e condições marcando a caixa de seleção.
-- 
+  
 ### Agradecimentos
 
 Sinta-se à vontade para usar e modificar este formulário de registro para seus projetos! Se tiver alguma dúvida ou feedback, não hesite em entrar em contato. 🚀
