@@ -1,32 +1,32 @@
-## Formulário de Registro 📝
+## Registration Form 📝
 
- Este é um formulário simples de registro construído usando HTML e estilizado com CSS.
+This is a simple registration form built using HTML and styled with CSS.
 
-### Visão Geral Técnica
+### Technical Overview
 
-- **HTML**: Linguagem de Marcação de Hipertexto é a linguagem de marcação padrão para criar páginas da web.
-- **CSS**: Folhas de Estilo em Cascata são usadas para estilizar elementos HTML.
+- **HTML**: HyperText Markup Language is the standard markup language for creating web pages.
+- **CSS**: Cascading Style Sheets are used to style HTML elements.
 
-### Como Usar
+### How to Use
 
-1. **Baixar**: Você pode baixar o arquivo HTML (`index.html`) e o arquivo CSS (`styles.css`) deste repositório.
-2. **Abrir arquivo HTML**: Abra o arquivo `index.html` em um navegador da web.
-3. **Preencher o formulário**: Insira seu primeiro nome, último nome, e-mail, crie uma nova senha, escolha seu tipo de conta (pessoal ou comercial), faça upload de uma foto de perfil, insira sua idade, selecione como você ouviu sobre o serviço, forneça uma biografia e aceite os termos e condições.
-4. **Enviar**: Clique no botão "Enviar" para enviar seu registro.
+1. **Download**: You can download the HTML file (`index.html`) and the CSS file (`styles.css`) from this repository.
+2. **Open HTML file**: Open the `index.html` file in a web browser.
+3. **Fill out the form**: Enter your first name, last name, email, create a new password, choose your account type (personal or business), upload a profile picture, enter your age, select how you heard about the service, provide a biography, and accept the terms and conditions.
+4. **Submit**: Click the "Submit" button to send your registration.
 
-### Demonstração 🚀
+### Demo 🚀
 
-[Demonstração do Formulário de Registro](https://github.com/leticiaveigacs/registrationForm/issues/1#issue-2295147378)
+[Registration Form Demo](https://github.com/leticiaveigacs/registrationForm/issues/1#issue-2295147378)
 
-### Informações
+### Information
 
-- Certifique-se de que todos os campos obrigatórios estejam preenchidos antes de enviar o formulário.
-- A senha deve conter pelo menos 8 caracteres, consistindo em letras minúsculas e números.
-- Você deve ter pelo menos 13 anos para se registrar.
-- Escolha a opção que melhor descreva como você ficou sabendo sobre o serviço no menu suspenso.
-- Forneça uma breve biografia sobre você na área de texto fornecida.
-- Aceite os termos e condições marcando a caixa de seleção.
-  
-### Agradecimentos
+- Ensure all required fields are filled out before submitting the form.
+- The password must be at least 8 characters long, consisting of lowercase letters and numbers.
+- You must be at least 13 years old to register.
+- Select the option that best describes how you heard about the service from the dropdown menu.
+- Provide a brief biography about yourself in the text area provided.
+- Accept the terms and conditions by ticking the checkbox.
 
-Sinta-se à vontade para usar e modificar este formulário de registro para seus projetos! Se tiver alguma dúvida ou feedback, não hesite em entrar em contato. 🚀
+### Acknowledgements
+
+Feel free to use and modify this registration form for your projects! If you have any questions or feedback, do not hesitate to get in touch. 🚀
