@@ -2,7 +2,7 @@
 
 This is a simple registration form built using HTML and styled with CSS.
 
-[Click](https://github.com/leticiaveigacs/registrationForm/settings/pages)
+[Click](https://leticiaveigacs.github.io/registrationForm/)
 
 
 
