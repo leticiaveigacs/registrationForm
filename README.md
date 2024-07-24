@@ -2,6 +2,10 @@
 
 This is a simple registration form built using HTML and styled with CSS.
 
+[Click](https://github.com/leticiaveigacs/registrationForm/settings/pages)
+
+
+
 ### Technical Overview
 
 - **HTML**: HyperText Markup Language is the standard markup language for creating web pages.
